@@ -5,7 +5,7 @@ def get_thoughtspot_token():
     
     headers = {
         'Accept': 'application/json',
-        'Authorization': 'Bearer QzhENlBEOkpITm9hWEp2TVNSVFNFRXRNalUySkRVd01EQXdNQ1JxYW1SRlZ6aHJRemhMWkhkNVdXWjJNa1l5TTBoblBUMGtSRGhsVTNsT1NHMVhTa2RsWVhVMVIwRlpha3d2UkRScFNtbFNNWEpaZUdWUWVXeENZalpHV21SRlNUMA=='
+        'Authorization': 'Bearer {token}'
     }
 
     try:
